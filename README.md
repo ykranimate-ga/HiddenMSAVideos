@@ -16,10 +16,6 @@
 ![Screenshot_20240216_202232_com huawei himovie overseas](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/82b50dbc-7b5d-44e5-b7dc-dd9ad8c5c016)
 ![Screenshot_20240216_202243_com huawei himovie overseas](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/7ff99827-f5f7-4a8b-abc6-d9ef87bda0c5)
 ![Screenshot_20240216_202253_com huawei himovie overseas](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/804a45ef-1f9b-4bc3-9ae7-a5c2c979d933)
-![Screenshot_20240216_202303_com huawei himovie overseas](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/fc2429d9-71ff-4f76-8afd-a14f9bb0ec48)
-![Screenshot_20240216_202330_com huawei himovie overseas](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/45d5f2eb-b87c-48b4-aaf8-6ac21c6cd3ac)
-![Screenshot_20240216_202405_com huawei himovie overseas](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/21d33d2a-b2a2-4c6b-9a32-4b735f7d5cd6)
-![Screenshot_20240216_202421_com huawei himovie overseas](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/06951486-6c2c-4f6a-a4f0-07bac4a4221d)
 
 # MSAVideoArchives
 Place Where The Archived MSA Videos Go Here all The Deleted Videos Are Included. 
