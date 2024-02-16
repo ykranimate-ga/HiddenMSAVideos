@@ -20,6 +20,6 @@
 # HiddenMSAVideos
 Place Where The Deleted MSA Videos Go Here all The Deleted Videos Are Included. 
 Go To The Releases Tab And Download The file. 
-# The Size Of V1 Is 1.1GB
-# The Size Of V2 Is 1GB
+- The Size Of V1 Is 1.1GB
+- The Size Of V2 Is 1GB
 
