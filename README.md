@@ -3,3 +3,5 @@
 ![Screenshot_20240216_171608_com google android youtube](https://github.com/ykranimate-ga/MSA-Archived-Videos/assets/115282193/85690f70-60d5-4fdd-bb49-ef195eb8e6c5)
 # HiddenMSAVideos
 Place Where The Deleted MSA Videos Go Here all The Deleted Videos Are Included. 
+Go To The Releases Tab And Download The (.zip) file
+The Size Of V1 Is 1.1GB
